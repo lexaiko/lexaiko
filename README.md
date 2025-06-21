@@ -69,7 +69,7 @@
 ---
 
 🎓 Electical Engingineering,  
-**Muhammadiyah 2 Genteng Vocational HighSchool** (2020 – 2023)
+**Muhammadiyah 2 Genteng Vocational High School** (2020 – 2023)
 
 > Focus: Electical Engineering, Electrionics Engineering, Internet of Things
 
