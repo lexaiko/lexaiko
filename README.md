@@ -21,6 +21,7 @@
   `Machine Learning`, `IoT Prototyping`, `Web API`, `Cloud Integration`, `PHP`, `Python`
 - 📫 Reach me at: **ekosusantobagussusanto@gmail.com**
 - ⚡ Fun fact: I enjoy solving real-world problems with futuristic tech 🌍🤖
+- 👨‍💻 All of my projects are available at [lexaiko.github.io](https://lexaiko.github.io)
 
 ---
 
