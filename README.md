@@ -18,7 +18,7 @@
   ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 - 💬 Ask me about:  
   `Machine Learning`, `IoT Prototyping`, `Web API`, `Cloud Integration`, `PHP`, `Python`
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **ekosusantobagussusanto@gmail.com**
 - ⚡ Fun fact: I enjoy solving real-world problems with futuristic tech 🌍🤖
 
 ---
@@ -40,7 +40,7 @@
 
 ### 🌐 Let's Connect!
 <p align="center">
-  <a href="https://linkedin.com/in/your-link" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/eko-bagus-susanto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:ekosusantobagussusanto@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/lexaiko"><img src="https://img.shields.io/badge/-GitHub-24292E?style=flat&logo=github&logoColor=white"/></a>
 </p>
