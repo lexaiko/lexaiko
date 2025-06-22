@@ -62,7 +62,7 @@
 ## 🎓 Education
 
 🎓 Software Engineering Technology,  
-**State Polytechnic of Banyuwangi
+**State Polytechnic of Banyuwangi**
 > Focus: Full-Stack Dev, Databases, Cloud Computing, Internet of Things
 
 ---
