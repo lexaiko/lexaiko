@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lexaiko</h1>
+<h1 align="center">Hi 👋, I'm Lexaiko | Eko Bagus Susanto</h1>
 <h3 align="center">🚀 Software Engineer | 🤖 AI Enthusiast | 🌐 IoT Engineer</h3>
 
 <p align="center">
@@ -7,7 +7,7 @@
 
 ---
 
-- 🌱 Currently deepening my skills in **AI development**, **Edge computing**, and **Full-stack web**.
+- 🌱 Currently deepening my skills in **AI development**, **IoT Development**, and **Full-stack web**.
 - 💡 Passionate about building **smart systems** using AI + IoT.
 - 🛠️ Tools & Tech I love:  
   ![Laravel](https://img.shields.io/badge/-Laravel-F55247?style=flat&logo=laravel&logoColor=white)
@@ -62,8 +62,7 @@
 ## 🎓 Education
 
 🎓 Software Engineering Technology,  
-**Politeknik Negeri Banyuwangi** (2023 – Now)
-
+**State Polytechnic of Banyuwangi
 > Focus: Full-Stack Dev, Databases, Cloud Computing, Internet of Things
 
 ---
