@@ -88,3 +88,4 @@
   <a href="mailto:ekosusantobagussusanto@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/lexaiko"><img src="https://img.shields.io/badge/-GitHub-24292E?style=flat&logo=github&logoColor=white"/></a>
 </p>
+
