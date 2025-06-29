@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lexaiko | Eko Bagus Susanto</h1>
+<h1 align="center">Hi 👋, I'm Lexaiko | Eko Bagus S.</h1>
 <h3 align="center">🚀 Software Engineer | 🤖 AI Enthusiast | 🌐 IoT Engineer</h3>
 
 <p align="center">
