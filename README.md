@@ -64,10 +64,10 @@ const lexaiko = {
 ### 📈 GitHub Stats
 
 <a href="https://lexaiko.github.com">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lexaiko&show_icons=true&theme=tokyonight" alt="Aryan's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lexaiko&show_icons=true&theme=tokyonight" alt="Aryan's github stats" style="height: 200px; width: 48%;" />
 </a>
 <a href="https://lexaiko.github.com">
-  <img align="center" src="https://git-hub-streak-stats.vercel.app/?user=lexaiko&theme=tokyonight" />
+  <img align="center" src="https://git-hub-streak-stats.vercel.app/?user=lexaiko&theme=tokyonight" style="height: 200px; width: 48%;" />
 </a>
 
 ---
