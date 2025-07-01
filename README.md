@@ -41,7 +41,7 @@
 
 ### 📈 GitHub Stats
 
-<div style="display: flex; justify-content: center; align-items: center;">
+<div align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=lexaiko&show_icons=true&theme=tokyonight" />
   <img src="https://git-hub-streak-stats.vercel.app/?user=lexaiko&theme=tokyonight" />
 </div>
