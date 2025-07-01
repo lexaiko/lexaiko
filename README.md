@@ -10,16 +10,9 @@
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" height="300"/>
-  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" height="300"/>
-</div>
-
----
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 
 - 🌱 Currently deepening my skills in **AI development**, **IoT Development**, and **Full-stack web**.
-- 💡 Passionate about building **smart systems** using AI + IoT.
 - 🛠️ Tools & Tech I love:  
   ![Laravel](https://img.shields.io/badge/-Laravel-F55247?style=flat&logo=laravel&logoColor=white)
   ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
@@ -31,20 +24,51 @@
 - 💬 Ask me about:  
   `Machine Learning`, `IoT Prototyping`, `Web API`, `Cloud Integration`, `PHP`, `Python`
 - 📫 Reach me at: **ekosusantobagussusanto@gmail.com**
-- ⚡ Fun fact: I enjoy solving real-world problems with futuristic tech 🌍🤖
 - 👨‍💻 All of my projects are available at [lexaiko.github.io](https://lexaiko.github.io)
 <p align="center">
-<img src="./Assets/code-manufacture.gif" alt="Coding GIF" width="500">
 </p>
+
+
+#### A little more about me
+```javascript
+const lexaiko = {
+  pronouns: "He" | "Him",
+  code: ["Python", "Dart", "HTML/CSS", "PHP", "Javascript"],
+  askMeAbout: ["Web Dev", "AI Engineering", "IoT Development"],
+  technologies: {
+      frontend: {
+          js: ["React JS", "Node JS"],
+          css: ["Tailwind CSS", "Bootstrap"]
+      },
+      Backend: {
+        Tech: ["Laravel", "Next.js"]
+      }
+      codeEditor: {
+          Iot: ["VS Code", "Arduino"],
+          Webdev: ["VS Code"]
+      }
+  }
+}
+```
 
 ---
 
+<!-- <div align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" height="300"/>
+  <img src="./Assets/code-manufacture.gif" alt="Coding GIF" height="300">
+  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" height="300"/>
+</div>
+<img src="./Assets/code-manufacture.gif" alt="Coding GIF" width="500"> -->
+
+
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lexaiko&show_icons=true&theme=tokyonight" style="height: 200px; width: 48%;"/>
-  <img src="https://git-hub-streak-stats.vercel.app/?user=lexaiko&theme=tokyonight" style="height: 200px; width: 48%;"/>
-</p>
+<a href="https://lexaiko.github.com">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lexaiko&show_icons=true&theme=tokyonight" alt="Aryan's github stats" />
+</a>
+<a href="https://lexaiko.github.com">
+  <img align="center" src="https://git-hub-streak-stats.vercel.app/?user=lexaiko&theme=tokyonight" />
+</a>
 
 ---
 
@@ -86,6 +110,43 @@
 **Muhammadiyah 2 Genteng Vocational High School** (2020 – 2023)
 
 > Focus: Electical Engineering, Electrionics Engineering, Internet of Things
+
+---
+
+#### I'm an Early 🐤
+```text
+🌞 Morning    54 commits     ████░░░░░░░░░░░░░░░░░░░░░   12.5% 
+🌆 Daytime    205 commits    ████████████░░░░░░░░░░░░░   54.5% 
+🌃 Evening    82 commits     ██████░░░░░░░░░░░░░░░░░░░   20.5% 
+🌙 Night      36 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.5%
+```
+
+#### I Spent My Time On
+```text
+💬 Programming Lanuages:
+HTML                     3 hr 50 mins        ███████████░░░░░░░░░░░░░░   46% 
+CSS                      1 hr 5 mins         █████████░░░░░░░░░░░░░░░░   30% 
+Python                   59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10% 
+GitHub & Git             57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   9.5%
+
+🔥 Editors:
+VS Code                  4 Hours            ██████████████░░░░░░░░░░░   50% 
+Sublime Text             1 Hour             ██████████████░░░░░░░░░░░   50%
+
+💻 Operating System:
+Windows 11             14 hrs 2 mins      █████████████████████████   100.0%
+```
+
+#### Want to know more about me??
+```javascript
+const person = {
+  name: "Eko Bagus Susanto",
+  role: "FullStack developer",
+  "links": {
+    github: "https://github.com/lexaiko",
+  },
+};
+```
 
 ---
 
