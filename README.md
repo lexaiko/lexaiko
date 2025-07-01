@@ -64,12 +64,16 @@ const lexaiko = {
 ### 📈 GitHub Stats
 
 <a href="https://lexaiko.github.com">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lexaiko&show_icons=true&theme=tokyonight" alt="Aryan's github stats" style="height: 200px; width: 48%;" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lexaiko&show_icons=true&theme=onedark" alt="Lexaiko's github stats" />
 </a>
 <a href="https://lexaiko.github.com">
-  <img align="center" src="https://git-hub-streak-stats.vercel.app/?user=lexaiko&theme=tokyonight" style="height: 200px; width: 48%;" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lexaiko&count_private=true&langs_count=3&theme=onedark" />
 </a>
-
+<br />
+<br />
+<p align="center">
+  <img align="center" src="https://git-hub-streak-stats.vercel.app/?user=lexaiko&theme=onedark"/>
+</p>
 ---
 
 ## 💼 Experiences
