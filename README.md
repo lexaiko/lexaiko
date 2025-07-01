@@ -24,7 +24,7 @@
 - 💬 Ask me about:  
   `Machine Learning`, `IoT Prototyping`, `Web API`, `Cloud Integration`, `PHP`, `Python`
 - 📫 Reach me at: **ekosusantobagussusanto@gmail.com**
-- 👨‍💻 All of my projects are available at [lexaiko.github.io](https://lexaiko.github.io)
+- 👨‍💻 All of my projects are available at: <br>  <a href="https://lexaiko.github.io"><img src="https://img.shields.io/badge/-Visit%20My%20Projects-24292E?style=flat&logo=github&logoColor=white"/></a>
 <p align="center">
 </p>
 
