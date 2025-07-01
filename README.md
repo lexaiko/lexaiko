@@ -113,6 +113,8 @@ You are visitor number:
 
 ![Visitor Count](https://profile-counter.glitch.me/lexaiko/count.svg)
 
+</div>
+
 <div align="center">
   
 <sup>Best viewed with:</sup><br />[![Microsoft Internet Explorer](https://user-images.githubusercontent.com/282759/84683523-52f97980-af05-11ea-9da0-639e1c368536.gif)](https://www.microsoft.com/en-gb/download/internet-explorer.aspx)
