@@ -41,10 +41,10 @@
 
 ### 📈 GitHub Stats
 
-<div style="display: flex; flex-direction: row; justify-content: space-between; @media (max-width: 768px) { flex-direction: column; }">
-  <img src="https://github-readme-stats.vercel.app/api?username=lexaiko&show_icons=true&theme=tokyonight" />
-  <img src="https://git-hub-streak-stats.vercel.app/?user=lexaiko&theme=tokyonight" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lexaiko&show_icons=true&theme=tokyonight" style="height: 200px; width: 48%;"/>
+  <img src="https://git-hub-streak-stats.vercel.app/?user=lexaiko&theme=tokyonight" style="height: 200px; width: 48%;"/>
+</p>
 
 ---
 
