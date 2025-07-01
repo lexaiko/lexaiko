@@ -27,10 +27,11 @@
 ---
 
 ### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lexaiko&show_icons=true&theme=tokyonight" style="height: 200px; width: 48%;"/>
-  <img src="https://git-hub-streak-stats.vercel.app/?user=lexaiko&theme=tokyonight" style="height: 200px; width: 48%;"/>
-</p>
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=lexaiko&show_icons=true&theme=tokyonight" style="max-width: 100%; height: auto; flex: 1 1 300px;" />
+  <img src="https://git-hub-streak-stats.vercel.app/?user=lexaiko&theme=tokyonight" style="max-width: 100%; height: auto; flex: 1 1 300px;" />
+</div>
 
 ---
 
