@@ -42,7 +42,7 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=lexaiko&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lexaiko&show_icons=true&theme=tokyonight" />
   <img src="https://git-hub-streak-stats.vercel.app/?user=lexaiko&theme=tokyonight" />
 </div>
 
